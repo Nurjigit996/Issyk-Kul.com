@@ -1,0 +1,33 @@
+.body{
+    background-color: rgb(139, 14, 14);
+}
+
+h1{
+    color: rgb(219, 219, 195);
+    transition: 300ms;
+}
+h1:hover{
+    color: white;
+    text-shadow: 0px 0px 15px white;
+}
+p{
+    color: rgb(62, 223, 62);
+    transition: 300ms;
+}
+p:hover{
+    font-size: 30px;
+}
+img{
+    width: 250px;
+    transition: 300ms;
+    border: 0px;
+}
+img:hover{
+     box-shadow: 0px 0px 15px white;
+     border-radius: 25%;
+}
+
+
+
+    
+
